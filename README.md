@@ -43,3 +43,8 @@ The repository is organized into multiple PDF files, each focusing on different 
 1. Clone the repository:
    ```bash
    git clone https://github.com/shubhdhungana/mern-interview-sets-pdf.git
+
+### 🌟 **If you like these notes, would you thank me in insta? **
+https://www.instagram.com/subhdna/
+
+   
